@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "318678188745",
+    "project_id": "quicknotes-92fc0",
+    "storage_bucket": "quicknotes-92fc0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:318678188745:android:2131beec97eb80ead88318",
+        "android_client_info": {
+          "package_name": "com.dimaenc.quicknotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "318678188745-2qf95cs3vpkhf5ctrfr9kfmmou4bbk72.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBaXKx0W56L-Kr8wwqUQYQrbjRFnEnatOg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "318678188745-2qf95cs3vpkhf5ctrfr9kfmmou4bbk72.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
